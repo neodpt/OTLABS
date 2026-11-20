@@ -37,13 +37,14 @@ An LM13700 voltage controlled amplifier, redrawn in KiCad from the [Super Synthe
 ## Controls and jacks
 | Label | Type | Function |
 |---|---|---|
-| 1 | Input | Channel 1 in |
-| 2 | Input | Channel 2 in |
-| LEVEL (×2) | Knob | Channel level |
-| CV | Input | |
-| OUT | Output | |
-| FUZZ | Knob | |
-| INIT | Knob | |
+| 1 | Input | Jack Channel 1 in |
+| 2 | Input | Jack Channel 2 in |
+| LEVEL 1 | Knob | Channel 1 level |
+| LEVEL 2 | Knob | Channel 2 level |
+| CV | Input Jack | patch in an envelope |
+| OUT | Audio Output | Jack |
+| FUZZ | Knob | increased amplifictation and distoration |
+| INIT | Knob | where the level starts|
 
 ## Build notes
 
