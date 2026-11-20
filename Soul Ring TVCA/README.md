@@ -8,7 +8,7 @@ An LM13700 voltage controlled amplifier, redrawn in KiCad from the [Super Synthe
 
 ## Resources
 
-- [Assembly instructions](docs/assembly.md) and [BOM](bom.md)
+- [Assembly instructions](docs/assembly.md) and [BOM](docs/bom.md)
 - Interactive BOM: [main board](ibom/soul_ring_ibom.html)
 - [Schematic](kicad/soul_ring_schematic.pdf)
 - GERBER files:
