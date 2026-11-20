@@ -10,11 +10,11 @@ An LM13700 voltage controlled amplifier, redrawn in KiCad from the [Super Synthe
 
 - [Assembly instructions](docs/assembly.md) and [BOM](docs/bom.md)
 - Interactive BOM: [main board](ibom/soul_ring_ibom.html)
-- [Schematic](kicad/soul_ring_schematic.pdf)
+- [Schematic](docs/tvca.pdf)
 - GERBER files:
   - Faceplate: [JLCPCB](gerbers/soul_ring_faceplate_jlcpcb.zip)
   - Main board: [JLCPCB](gerbers/soul_ring_pcb_jlcpcb.zip)
-- (Most) parts on Tayda: [cart link](https://www.taydaelectronics.com/savecartpro/index/savenewquote/qid/60358194109), [quick-order CSV](tayda_bom.csv)
+- (Most) parts on Tayda: [cart link](https://www.taydaelectronics.com/savecartpro/index/savenewquote/qid/60358194109), [quick-order CSV](docs/tayda_bom.csv)
 - [KiCad source files](kicad/)
 - [VCV Rack 2 module](https://library.vcvrack.com/SFSSuper/TVCA)
 
@@ -24,7 +24,7 @@ An LM13700 voltage controlled amplifier, redrawn in KiCad from the [Super Synthe
 
 **Status:** 🟡 Nearly ready for fab<br>
 **DIY difficulty:** TBD (SMD, 0805 and larger)<br>
-**HP:** TBD<br>
+**HP:** 6<br>
 **Power usage:**
 
 | | Typical | Maximum |
