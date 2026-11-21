@@ -13,7 +13,7 @@ I like a little whimsy and fantasy themes. Feel free to do whatever you want wit
 | Module Name | | Function | HP | Source | Status |
 |---|---|---|---|---|---|
 | Tim's VCO | 🟢 | Schmitt-trigger inverter (40106) VCO | 12 | [The More Ritz Klein VCO](https://www.kieranreck.co.uk/_posts/2023-08-28-The-More-Ritz-Klein-VCO/) | 2 versions |
-| [Soul Ring](Soul%20Ring%20TVCA) | 🟡 | LM13700 VCA (based on TVCA rev 3) | 6 | [Super Synthesis](https://github.com/supersynthesis/eurorack/tree/main/Production%20Modules/TVCA) | Nearly ready for fab |
+| [Soul Ring](Soul%20Ring%20TVCA/README.md) | 🟡 | LM13700 VCA (based on TVCA rev 3) | 6 | [Super Synthesis](https://github.com/supersynthesis/eurorack/tree/main/Production%20Modules/TVCA) | Nearly ready for fab |
 | [Mogg Ladder](Moog%20Ladder%20Filter) | 🟡 | Moog ladder filter | 10 | [YuSynth Ladder Filter](https://www.yusynth.net/Modular/EN/MOOGVCF/index.html) | Coming soon |
 | Goblin War Drums | 🟡 | 8-step sequencer | 14 | [Moritz Klein sequencer](https://www.ericasynths.lv/edu-diy-sequencer-2131/) | In revision |
 | LFO | 🔴 | Voltage controlled LFO | TBD | | Coming soon |
