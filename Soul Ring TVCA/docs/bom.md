@@ -1,6 +1,6 @@
 ## Components
  
-(Most) parts on Tayda: [cart link](https://www.taydaelectronics.com/savecartpro/index/savenewquote/qid/60358194109), [quick-order CSV](tayda_bom.csv)
+(Most) parts on Tayda: [cart link](https://www.taydaelectronics.com/savecartpro/index/savenewquote/qid/49658194796), [quick-order CSV](tayda_bom.csv)
  
 | | Reference | Qty | Part | Value | Source | Comment |
 |---|---|---|---|---|---|---|
