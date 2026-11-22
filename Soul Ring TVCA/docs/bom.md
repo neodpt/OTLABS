@@ -1,3 +1,7 @@
+
+# Soul Ring BOM
+ 
+[Back to Soul Ring](../README.md)
 ## Components
  
 (Most) parts on Tayda: [cart link](https://www.taydaelectronics.com/savecartpro/index/savenewquote/qid/49658194796), [quick-order CSV](tayda_bom.csv)
